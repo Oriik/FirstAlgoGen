@@ -30,10 +30,10 @@ namespace FirstAlgoGen
                 oldBestFitness = bestFitness;
                 bestFitness = population.people.Max().fitness;
                
-                if(bestFitness != oldBestFitness)  Console.WriteLine("GENERATION "+numGen +" : fitness = "+bestFitness);
+                if(bestFitness != oldBestFitness)  Console.WriteLine("GENERATION "+numGen +" : best fitness = "+bestFitness);
             }
 
-            Console.WriteLine(numGen);
+            Console.WriteLine("Last generation got perfect individual !");
             Console.ReadKey();
         }
     }
