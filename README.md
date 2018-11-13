@@ -7,3 +7,7 @@ First generation = random array
 Fitness = number of 1
 
 Goal = Perfect individual (array full of 1)
+
+Example of output :
+
+![Image of Yaktocat](https://github.com/Oriik/FirstAlgoGen/blob/master/Output.PNG)
