@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAlgoGen", "FirstAlgoGen\FirstAlgoGen.csproj", "{C95298A9-46C0-44BE-AB3A-32703CB963F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C95298A9-46C0-44BE-AB3A-32703CB963F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95298A9-46C0-44BE-AB3A-32703CB963F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95298A9-46C0-44BE-AB3A-32703CB963F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95298A9-46C0-44BE-AB3A-32703CB963F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB4F70F-8170-42D6-91F9-5976CCE3C0BA}
+	EndGlobalSection
+EndGlobal
