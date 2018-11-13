@@ -10,4 +10,4 @@ Goal = Perfect individual (array full of 1)
 
 Example of output :
 
-![Image of Yaktocat](https://github.com/Oriik/FirstAlgoGen/blob/master/Output.PNG)
+![Output](/Output.PNG)
