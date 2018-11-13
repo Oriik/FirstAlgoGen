@@ -51,8 +51,8 @@ namespace FirstAlgoGen
                 int mother;
                 do
                 {
-                    mother = random.Next(0, 10);
-                } while (mother != father);
+                    mother = random.Next(0, populationSize / 2);
+                } while (mother == father);
 
 
                 temp.Hybridation(people[father], people[mother]);
