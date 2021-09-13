@@ -1,6 +1,6 @@
 # FirstAlgoGen
 
-My first implementation of a genetic algo.
+My first algogen implementation.
 
 Individual are array of bit (0 or 1).
 
